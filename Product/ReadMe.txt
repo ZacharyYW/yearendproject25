@@ -1,1 +1,0 @@
-This product folder is for you to add your source code files.
